@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">A Deep Learning Enthusiast</h3>
 
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:750/format:webp/0*FLD5PNYJgWknPvJQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkumar158&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkumar158"/> </p>
 
 - 🌱 I’m currently learning **Computer Vision**
