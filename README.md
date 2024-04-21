@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vishal-kumar-630551166/?originalSubdomain=in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal kumar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vishal-kumar-630551166/?originalSubdomain=in" target="blank"><img align="center" src="https://assets-global.website-files.com/621c8d7ad9e04933c4e51ffb/65eba5ffa14998827c92cc01_slack-octothorpe-p-500.png" alt="vishal kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishal-kumar-630551166/?originalSubdomain=in" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" alt="vishal kumar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
